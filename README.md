@@ -27,18 +27,6 @@ markdown 文件以及英文版原版链接也都放在了 github 上面，希望
 
 Effective Java 第三版翻译校对群：[909059971](https://jq.qq.com/?_wv=1027&k=5tscKwN)
 
-<center>
-<img width="300" src="http://sjsdfg.gitee.io/effective-java-3rd-chinese/images/groupcode.png" />
-</center>
-
-
-
-##  品牌衣服一折购
-
-<center>
-<img width="400" src="http://sjsdfg.gitee.io/effective-java-3rd-chinese/images/shop.jpg" />
-</center>
-
 ## 额外资源
 
 * [effective-java-2nd 中文版](https://pan.baidu.com/s/1R6H9UHbFYubWWY9HrclZ2A)
