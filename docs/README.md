@@ -19,7 +19,7 @@
 Effective Java 第三版翻译校对群：[909059971](https://jq.qq.com/?_wv=1027&k=5tscKwN)
 
 <center>
-<img width="300" src="https://ab300819.github.io/effective-java-3rd-chinese/images/groupcode.png" />
+<img width="300" src="images/groupcode.png" />
 </center>
 
 ## 友情链接
